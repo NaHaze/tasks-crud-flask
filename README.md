@@ -1,6 +1,7 @@
 # Desenvolvimento CRUD com Flask
 
 Este projeto faz parte de aprendizado para construir uma API funcional de <b>gerenciamento de tarefas.</b> </br>
+Aula ministrada pela Rocketseat com o Professor Gabriel Casemiro 🚀
 ## Conceitos abordados
 <li>Framework Flask; </br>
  Para utilizar o Flask, é necessário instalar suas dependências. Isso pode ser feito através do comando <u> pip3 install flask </u>no terminal ou criando um arquivo de requisitos e instalando as dependências através do comando <u>pip install -r requirements.txt</u>.
